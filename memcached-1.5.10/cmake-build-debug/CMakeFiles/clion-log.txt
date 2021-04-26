@@ -1,0 +1,4 @@
+C:\Users\zhangtongxin\AppData\Local\JetBrains\CLion2020.1\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/d/gitee/c_open_project/memcached-1.5.10
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug

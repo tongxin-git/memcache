@@ -1,0 +1,3 @@
+/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/CMakeFiles/memcached_1_5_10.dir
+/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/CMakeFiles/edit_cache.dir

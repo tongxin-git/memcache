@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="memcached_1_5_10" targetName="memcached_1_5_10" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56472ffe-0079-4b72-8997-8b44b5e57945" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/config.h.in" beforeDir="false" afterPath="$PROJECT_DIR$/config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memcached.h" beforeDir="false" afterPath="$PROJECT_DIR$/memcached.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dWv4ZAXjNJNxEs4aWw4FKtexqy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="memcached_1_5_10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="memcached_1_5_10" TARGET_NAME="memcached_1_5_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="memcached_1_5_10" RUN_TARGET_NAME="memcached_1_5_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56472ffe-0079-4b72-8997-8b44b5e57945" name="Default Changelist" comment="" />
+      <created>1592553472988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592553472988</updated>
+      <workItem from="1592553474276" duration="626000" />
+      <workItem from="1592554437364" duration="2767000" />
+      <workItem from="1592559453401" duration="1097000" />
+      <workItem from="1592790552723" duration="1364000" />
+      <workItem from="1592880309431" duration="176000" />
+      <workItem from="1592880877903" duration="328000" />
+      <workItem from="1592881222140" duration="1719000" />
+      <workItem from="1592883220351" duration="604000" />
+      <workItem from="1592884023237" duration="297000" />
+      <workItem from="1592884475360" duration="497000" />
+      <workItem from="1592885373143" duration="299000" />
+      <workItem from="1592892293124" duration="715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="91" key="FileChooserDialogImpl" timestamp="1592560542980">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="465" y="91" key="FileChooserDialogImpl/0.0.1475.789@0.0.1475.789" timestamp="1592560542980" />
+    <state x="159" y="0" key="SettingsEditor" timestamp="1592560201113">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="159" y="0" key="SettingsEditor/0.0.1475.789@0.0.1475.789" timestamp="1592560201113" />
+    <state x="0" y="0" width="1272" height="789" key="find.popup" timestamp="1592560064752">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="0" y="0" width="1272" height="789" key="find.popup/0.0.1475.789@0.0.1475.789" timestamp="1592560064752" />
+    <state x="200" y="0" width="948" height="787" key="search.everywhere.popup" timestamp="1592790894777">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="200" y="0" width="948" height="787" key="search.everywhere.popup/0.0.1475.789@0.0.1475.789" timestamp="1592790894777" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/openbsd_priv.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

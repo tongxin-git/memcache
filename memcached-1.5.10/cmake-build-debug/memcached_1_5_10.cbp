@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="memcached_1_5_10"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="memcached_1_5_10">
+				<Option output="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/memcached_1_5_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 memcached_1_5_10"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="memcached_1_5_10/fast">
+				<Option output="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/memcached_1_5_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 memcached_1_5_10/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/assoc.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/assoc.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/bipbuffer.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/bipbuffer.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cache.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/cache.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/config.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/crawler.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/crawler.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/crc32c.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/crc32c.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/daemon.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/extstore.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/extstore.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/hash.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/hash.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/items.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/items.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/itoa_ljust.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/itoa_ljust.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/jenkins_hash.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/jenkins_hash.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/linux_priv.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/logger.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/logger.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/memcached.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/memcached.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/murmur3_hash.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/murmur3_hash.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/openbsd_priv.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/protocol_binary.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/sasl_defs.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/sasl_defs.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/sizes.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/slab_automove.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/slab_automove.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/slab_automove_extstore.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/slab_automove_extstore.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/slabs.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/slabs.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/solaris_priv.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/stats.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/stats.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/storage.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/storage.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/testapp.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/thread.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/timedrun.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/trace.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/util.c">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/util.h">
+			<Option target="memcached_1_5_10"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/gitee/c_open_project/memcached-1.5.10/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
